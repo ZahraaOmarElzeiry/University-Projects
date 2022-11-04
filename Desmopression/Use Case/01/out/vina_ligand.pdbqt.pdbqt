@@ -1,0 +1,369 @@
+MODEL 1
+REMARK VINA RESULT:      -7.6      0.000      0.000
+REMARK  Name = ligand.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C6_8
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C2_3  and  C11_13
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK    5  A    between atoms: C3_5  and  C5_7
+REMARK    6  A    between atoms: C6_8  and  C7_9
+REMARK    7  A    between atoms: C6_8  and  C8_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C8  IBP A 701      26.659  33.242 202.078  0.00  0.00    +0.000 A 
+ATOM      2  C9  IBP A 701      27.449  33.665 200.983  0.00  0.00    +0.000 A 
+ATOM      3  C10 IBP A 701      26.873  34.345 199.880  0.00  0.00    +0.000 A 
+ATOM      4  C11 IBP A 701      25.483  34.629 199.828  0.00  0.00    +0.000 A 
+ATOM      5  C12 IBP A 701      24.696  34.209 200.919  0.00  0.00    +0.000 A 
+ATOM      6  C13 IBP A 701      25.271  33.528 202.025  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C6  IBP A 701      27.309  32.490 203.264  0.00  0.00    +0.000 C 
+ATOM      8  C7  IBP A 701      28.729  32.966 203.585  0.00  0.00    +0.000 C 
+BRANCH   7   9
+ATOM      9  C1  IBP A 701      27.284  30.998 202.966  0.00  0.00    +0.000 C 
+ATOM     10  O1  IBP A 701      28.447  30.500 202.638  0.00  0.00    +0.000 OA
+ATOM     11  O2  IBP A 701      26.268  30.313 203.003  0.00  0.00    +0.000 OA
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   4  12
+ATOM     12  C2  IBP A 701      24.875  35.354 198.632  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  C3  IBP A 701      25.796  35.485 197.412  0.00  0.00    +0.000 C 
+ATOM     14  C4  IBP A 701      26.247  36.931 197.252  0.00  0.00    +0.000 C 
+ATOM     15  C5  IBP A 701      25.101  35.034 196.148  0.00  0.00    +0.000 C 
+ENDBRANCH  12  13
+ENDBRANCH   4  12
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.5      3.222      6.222
+REMARK  Name = ligand.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C6_8
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C2_3  and  C11_13
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK    5  A    between atoms: C3_5  and  C5_7
+REMARK    6  A    between atoms: C6_8  and  C7_9
+REMARK    7  A    between atoms: C6_8  and  C8_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C8  IBP A 701      24.915  35.044 199.196  0.00  0.00    +0.000 A 
+ATOM      2  C9  IBP A 701      26.201  34.486 199.388  0.00  0.00    +0.000 A 
+ATOM      3  C10 IBP A 701      26.562  33.874 200.615  0.00  0.00    +0.000 A 
+ATOM      4  C11 IBP A 701      25.649  33.795 201.700  0.00  0.00    +0.000 A 
+ATOM      5  C12 IBP A 701      24.368  34.349 201.509  0.00  0.00    +0.000 A 
+ATOM      6  C13 IBP A 701      24.005  34.962 200.280  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C6  IBP A 701      24.550  35.718 197.852  0.00  0.00    +0.000 C 
+ATOM      8  C7  IBP A 701      23.766  34.807 196.903  0.00  0.00    +0.000 C 
+BRANCH   7   9
+ATOM      9  C1  IBP A 701      25.829  36.222 197.198  0.00  0.00    +0.000 C 
+ATOM     10  O1  IBP A 701      26.292  35.439 196.260  0.00  0.00    +0.000 OA
+ATOM     11  O2  IBP A 701      26.399  37.257 197.525  0.00  0.00    +0.000 OA
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   4  12
+ATOM     12  C2  IBP A 701      26.053  33.142 203.017  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  C3  IBP A 701      27.414  32.433 203.004  0.00  0.00    +0.000 C 
+ATOM     14  C4  IBP A 701      27.217  30.923 203.039  0.00  0.00    +0.000 C 
+ATOM     15  C5  IBP A 701      28.264  32.855 204.180  0.00  0.00    +0.000 C 
+ENDBRANCH  12  13
+ENDBRANCH   4  12
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.3     21.550     22.913
+REMARK  Name = ligand.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C6_8
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C2_3  and  C11_13
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK    5  A    between atoms: C3_5  and  C5_7
+REMARK    6  A    between atoms: C6_8  and  C7_9
+REMARK    7  A    between atoms: C6_8  and  C8_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C8  IBP A 701      27.103  17.006 187.012  0.00  0.00    +0.000 A 
+ATOM      2  C9  IBP A 701      26.238  17.484 186.000  0.00  0.00    +0.000 A 
+ATOM      3  C10 IBP A 701      26.667  17.587 184.653  0.00  0.00    +0.000 A 
+ATOM      4  C11 IBP A 701      27.981  17.216 184.263  0.00  0.00    +0.000 A 
+ATOM      5  C12 IBP A 701      28.843  16.738 185.271  0.00  0.00    +0.000 A 
+ATOM      6  C13 IBP A 701      28.414  16.634 186.621  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C6  IBP A 701      26.614  16.914 188.478  0.00  0.00    +0.000 C 
+ATOM      8  C7  IBP A 701      27.724  17.140 189.508  0.00  0.00    +0.000 C 
+BRANCH   7   9
+ATOM      9  C1  IBP A 701      25.941  15.565 188.682  0.00  0.00    +0.000 C 
+ATOM     10  O1  IBP A 701      26.069  15.083 189.889  0.00  0.00    +0.000 OA
+ATOM     11  O2  IBP A 701      25.345  14.960 187.797  0.00  0.00    +0.000 OA
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   4  12
+ATOM     12  C2  IBP A 701      28.433  17.341 182.813  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  C3  IBP A 701      27.704  16.425 181.821  0.00  0.00    +0.000 C 
+ATOM     14  C4  IBP A 701      28.037  14.968 182.114  0.00  0.00    +0.000 C 
+ATOM     15  C5  IBP A 701      28.082  16.750 180.394  0.00  0.00    +0.000 C 
+ENDBRANCH  12  13
+ENDBRANCH   4  12
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -7.0      2.854      5.921
+REMARK  Name = ligand.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C6_8
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C2_3  and  C11_13
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK    5  A    between atoms: C3_5  and  C5_7
+REMARK    6  A    between atoms: C6_8  and  C7_9
+REMARK    7  A    between atoms: C6_8  and  C8_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C8  IBP A 701      26.404  34.456 199.929  0.00  0.00    +0.000 A 
+ATOM      2  C9  IBP A 701      27.815  34.491 200.026  0.00  0.00    +0.000 A 
+ATOM      3  C10 IBP A 701      28.507  33.692 200.971  0.00  0.00    +0.000 A 
+ATOM      4  C11 IBP A 701      27.815  32.826 201.858  0.00  0.00    +0.000 A 
+ATOM      5  C12 IBP A 701      26.409  32.789 201.760  0.00  0.00    +0.000 A 
+ATOM      6  C13 IBP A 701      25.714  33.588 200.814  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C6  IBP A 701      25.671  35.347 198.897  0.00  0.00    +0.000 C 
+ATOM      8  C7  IBP A 701      24.254  35.739 199.325  0.00  0.00    +0.000 C 
+BRANCH   7   9
+ATOM      9  C1  IBP A 701      25.662  34.630 197.556  0.00  0.00    +0.000 C 
+ATOM     10  O1  IBP A 701      26.394  35.205 196.639  0.00  0.00    +0.000 OA
+ATOM     11  O2  IBP A 701      25.014  33.614 197.331  0.00  0.00    +0.000 OA
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   4  12
+ATOM     12  C2  IBP A 701      28.571  31.979 202.876  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  C3  IBP A 701      28.841  32.664 204.222  0.00  0.00    +0.000 C 
+ATOM     14  C4  IBP A 701      27.651  33.528 204.617  0.00  0.00    +0.000 C 
+ATOM     15  C5  IBP A 701      30.085  33.522 204.160  0.00  0.00    +0.000 C 
+ENDBRANCH  12  13
+ENDBRANCH   4  12
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.5     23.028     24.723
+REMARK  Name = ligand.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C6_8
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C2_3  and  C11_13
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK    5  A    between atoms: C3_5  and  C5_7
+REMARK    6  A    between atoms: C6_8  and  C7_9
+REMARK    7  A    between atoms: C6_8  and  C8_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C8  IBP A 701      27.301  16.466 184.233  0.00  0.00    +0.000 A 
+ATOM      2  C9  IBP A 701      27.496  17.560 183.358  0.00  0.00    +0.000 A 
+ATOM      3  C10 IBP A 701      27.768  17.362 181.981  0.00  0.00    +0.000 A 
+ATOM      4  C11 IBP A 701      27.855  16.059 181.423  0.00  0.00    +0.000 A 
+ATOM      5  C12 IBP A 701      27.659  14.968 182.294  0.00  0.00    +0.000 A 
+ATOM      6  C13 IBP A 701      27.386  15.165 183.673  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C6  IBP A 701      27.018  16.709 185.735  0.00  0.00    +0.000 C 
+ATOM      8  C7  IBP A 701      26.250  18.005 186.011  0.00  0.00    +0.000 C 
+BRANCH   7   9
+ATOM      9  C1  IBP A 701      28.339  16.682 186.489  0.00  0.00    +0.000 C 
+ATOM     10  O1  IBP A 701      28.343  15.889 187.528  0.00  0.00    +0.000 OA
+ATOM     11  O2  IBP A 701      29.316  17.353 186.176  0.00  0.00    +0.000 OA
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   4  12
+ATOM     12  C2  IBP A 701      28.158  15.859 179.942  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  C3  IBP A 701      28.687  17.100 179.211  0.00  0.00    +0.000 C 
+ATOM     14  C4  IBP A 701      27.587  17.710 178.353  0.00  0.00    +0.000 C 
+ATOM     15  C5  IBP A 701      29.873  16.758 178.338  0.00  0.00    +0.000 C 
+ENDBRANCH  12  13
+ENDBRANCH   4  12
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.5     22.007     23.520
+REMARK  Name = ligand.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C6_8
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C2_3  and  C11_13
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK    5  A    between atoms: C3_5  and  C5_7
+REMARK    6  A    between atoms: C6_8  and  C7_9
+REMARK    7  A    between atoms: C6_8  and  C8_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C8  IBP A 701      27.432  16.455 185.826  0.00  0.00    +0.000 A 
+ATOM      2  C9  IBP A 701      28.782  16.636 185.445  0.00  0.00    +0.000 A 
+ATOM      3  C10 IBP A 701      29.138  16.889 184.096  0.00  0.00    +0.000 A 
+ATOM      4  C11 IBP A 701      28.157  16.970 183.073  0.00  0.00    +0.000 A 
+ATOM      5  C12 IBP A 701      26.811  16.791 183.453  0.00  0.00    +0.000 A 
+ATOM      6  C13 IBP A 701      26.453  16.538 184.803  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C6  IBP A 701      27.070  16.167 187.303  0.00  0.00    +0.000 C 
+ATOM      8  C7  IBP A 701      25.648  15.632 187.492  0.00  0.00    +0.000 C 
+BRANCH   7   9
+ATOM      9  C1  IBP A 701      27.292  17.436 188.113  0.00  0.00    +0.000 C 
+ATOM     10  O1  IBP A 701      28.225  17.330 189.023  0.00  0.00    +0.000 OA
+ATOM     11  O2  IBP A 701      26.648  18.467 187.955  0.00  0.00    +0.000 OA
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   4  12
+ATOM     12  C2  IBP A 701      28.554  17.234 181.625  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  C3  IBP A 701      27.596  16.662 180.572  0.00  0.00    +0.000 C 
+ATOM     14  C4  IBP A 701      27.802  15.158 180.440  0.00  0.00    +0.000 C 
+ATOM     15  C5  IBP A 701      27.806  17.317 179.225  0.00  0.00    +0.000 C 
+ENDBRANCH  12  13
+ENDBRANCH   4  12
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.3     22.780     24.431
+REMARK  Name = ligand.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C6_8
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C2_3  and  C11_13
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK    5  A    between atoms: C3_5  and  C5_7
+REMARK    6  A    between atoms: C6_8  and  C7_9
+REMARK    7  A    between atoms: C6_8  and  C8_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C8  IBP A 701      27.930  17.010 184.511  0.00  0.00    +0.000 A 
+ATOM      2  C9  IBP A 701      26.998  16.140 183.899  0.00  0.00    +0.000 A 
+ATOM      3  C10 IBP A 701      27.088  15.816 182.522  0.00  0.00    +0.000 A 
+ATOM      4  C11 IBP A 701      28.116  16.350 181.700  0.00  0.00    +0.000 A 
+ATOM      5  C12 IBP A 701      29.046  17.217 182.310  0.00  0.00    +0.000 A 
+ATOM      6  C13 IBP A 701      28.957  17.542 183.690  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C6  IBP A 701      27.802  17.358 186.014  0.00  0.00    +0.000 C 
+ATOM      8  C7  IBP A 701      28.474  16.338 186.937  0.00  0.00    +0.000 C 
+BRANCH   7   9
+ATOM      9  C1  IBP A 701      26.327  17.517 186.351  0.00  0.00    +0.000 C 
+ATOM     10  O1  IBP A 701      25.763  18.559 185.799  0.00  0.00    +0.000 OA
+ATOM     11  O2  IBP A 701      25.711  16.758 187.092  0.00  0.00    +0.000 OA
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   4  12
+ATOM     12  C2  IBP A 701      28.197  16.001 180.218  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  C3  IBP A 701      28.632  17.151 179.300  0.00  0.00    +0.000 C 
+ATOM     14  C4  IBP A 701      27.455  17.619 178.455  0.00  0.00    +0.000 C 
+ATOM     15  C5  IBP A 701      29.766  16.729 178.393  0.00  0.00    +0.000 C 
+ENDBRANCH  12  13
+ENDBRANCH   4  12
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.3      1.516      2.196
+REMARK  Name = ligand.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C6_8
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C2_3  and  C11_13
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK    5  A    between atoms: C3_5  and  C5_7
+REMARK    6  A    between atoms: C6_8  and  C7_9
+REMARK    7  A    between atoms: C6_8  and  C8_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C8  IBP A 701      27.589  33.118 201.755  0.00  0.00    +0.000 A 
+ATOM      2  C9  IBP A 701      28.150  33.925 200.738  0.00  0.00    +0.000 A 
+ATOM      3  C10 IBP A 701      27.338  34.761 199.930  0.00  0.00    +0.000 A 
+ATOM      4  C11 IBP A 701      25.930  34.822 200.107  0.00  0.00    +0.000 A 
+ATOM      5  C12 IBP A 701      25.371  34.019 201.121  0.00  0.00    +0.000 A 
+ATOM      6  C13 IBP A 701      26.183  33.182 201.932  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C6  IBP A 701      28.496  32.205 202.615  0.00  0.00    +0.000 C 
+ATOM      8  C7  IBP A 701      27.821  30.898 203.040  0.00  0.00    +0.000 C 
+BRANCH   7   9
+ATOM      9  C1  IBP A 701      28.974  32.995 203.823  0.00  0.00    +0.000 C 
+ATOM     10  O1  IBP A 701      28.189  32.905 204.864  0.00  0.00    +0.000 OA
+ATOM     11  O2  IBP A 701      29.992  33.679 203.831  0.00  0.00    +0.000 OA
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   4  12
+ATOM     12  C2  IBP A 701      25.067  35.718 199.225  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  C3  IBP A 701      25.740  36.207 197.936  0.00  0.00    +0.000 C 
+ATOM     14  C4  IBP A 701      26.199  35.018 197.103  0.00  0.00    +0.000 C 
+ATOM     15  C5  IBP A 701      26.926  37.095 198.239  0.00  0.00    +0.000 C 
+ENDBRANCH  12  13
+ENDBRANCH   4  12
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.2     21.053     22.006
+REMARK  Name = ligand.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C6_8
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C2_3  and  C11_13
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK    5  A    between atoms: C3_5  and  C5_7
+REMARK    6  A    between atoms: C6_8  and  C7_9
+REMARK    7  A    between atoms: C6_8  and  C8_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C8  IBP A 701      28.930  17.385 185.940  0.00  0.00    +0.000 A 
+ATOM      2  C9  IBP A 701      29.443  17.307 184.623  0.00  0.00    +0.000 A 
+ATOM      3  C10 IBP A 701      30.691  17.887 184.284  0.00  0.00    +0.000 A 
+ATOM      4  C11 IBP A 701      31.479  18.569 185.250  0.00  0.00    +0.000 A 
+ATOM      5  C12 IBP A 701      30.969  18.645 186.562  0.00  0.00    +0.000 A 
+ATOM      6  C13 IBP A 701      29.719  18.065 186.903  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C6  IBP A 701      27.559  16.755 186.281  0.00  0.00    +0.000 C 
+ATOM      8  C7  IBP A 701      26.387  17.397 185.533  0.00  0.00    +0.000 C 
+BRANCH   7   9
+ATOM      9  C1  IBP A 701      27.354  16.823 187.787  0.00  0.00    +0.000 C 
+ATOM     10  O1  IBP A 701      26.631  17.838 188.181  0.00  0.00    +0.000 OA
+ATOM     11  O2  IBP A 701      27.836  16.020 188.578  0.00  0.00    +0.000 OA
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   4  12
+ATOM     12  C2  IBP A 701      32.815  19.196 184.870  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  C3  IBP A 701      33.695  19.623 186.052  0.00  0.00    +0.000 C 
+ATOM     14  C4  IBP A 701      34.343  20.970 185.762  0.00  0.00    +0.000 C 
+ATOM     15  C5  IBP A 701      34.771  18.598 186.333  0.00  0.00    +0.000 C 
+ENDBRANCH  12  13
+ENDBRANCH   4  12
+TORSDOF 4
+ENDMDL

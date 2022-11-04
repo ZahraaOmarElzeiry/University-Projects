@@ -1,0 +1,39 @@
+REMARK VINA RESULT:      -6.4     23.423     24.870
+REMARK  Name = ligand.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C6_8
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C2_3  and  C11_13
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK    5  A    between atoms: C3_5  and  C5_7
+REMARK    6  A    between atoms: C6_8  and  C7_9
+REMARK    7  A    between atoms: C6_8  and  C8_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C8  IBP A 701      29.330  17.322 183.964  0.00  0.00    +0.000 A 
+ATOM      2  C9  IBP A 701      28.009  17.287 183.459  0.00  0.00    +0.000 A 
+ATOM      3  C10 IBP A 701      27.745  16.929 182.112  0.00  0.00    +0.000 A 
+ATOM      4  C11 IBP A 701      28.793  16.591 181.216  0.00  0.00    +0.000 A 
+ATOM      5  C12 IBP A 701      30.110  16.624 181.719  0.00  0.00    +0.000 A 
+ATOM      6  C13 IBP A 701      30.376  16.982 183.068  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C6  IBP A 701      29.593  17.728 185.434  0.00  0.00    +0.000 C 
+ATOM      8  C7  IBP A 701      31.079  17.879 185.771  0.00  0.00    +0.000 C 
+BRANCH   7   9
+ATOM      9  C1  IBP A 701      28.922  16.711 186.346  0.00  0.00    +0.000 C 
+ATOM     10  O1  IBP A 701      27.839  17.152 186.929  0.00  0.00    +0.000 OA
+ATOM     11  O2  IBP A 701      29.358  15.582 186.544  0.00  0.00    +0.000 OA
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   4  12
+ATOM     12  C2  IBP A 701      28.497  16.217 179.768  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  C3  IBP A 701      28.634  17.363 178.757  0.00  0.00    +0.000 C 
+ATOM     14  C4  IBP A 701      27.256  17.889 178.375  0.00  0.00    +0.000 C 
+ATOM     15  C5  IBP A 701      29.363  16.912 177.512  0.00  0.00    +0.000 C 
+ENDBRANCH  12  13
+ENDBRANCH   4  12
+TORSDOF 4

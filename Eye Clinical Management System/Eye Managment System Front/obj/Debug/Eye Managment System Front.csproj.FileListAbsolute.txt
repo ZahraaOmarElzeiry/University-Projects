@@ -1,0 +1,21 @@
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye Managment System Front.csproj.AssemblyReference.cache
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye_Managment_System_Front.Home.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye_Managment_System_Front.Login.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye_Managment_System_Front.Properties.Resources.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye Managment System Front.csproj.GenerateResource.cache
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye Managment System Front.csproj.CoreCompileInputs.cache
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Debug\Eye Managment System Front.exe.config
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Debug\Eye Managment System Front.exe
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Debug\Eye Managment System Front.pdb
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Debug\Bunifu_UI_v1.5.3.xml
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye Managment System Front.csproj.CopyComplete
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye Managment System Front.exe
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye Managment System Front.pdb
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye_Managment_System_Front.Patients.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye_Managment_System_Front.Doctors.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye_Managment_System_Front.Laboratory.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye_Managment_System_Front.Patient.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye_Managment_System_Front.Prescriptions.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Debug\Eye_Managment_System_Front.Receptionists.resources

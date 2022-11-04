@@ -1,0 +1,491 @@
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Release\Eye Managment System Front.exe.config
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Release\Eye Managment System Front.exe
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Release\Eye Managment System Front.pdb
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Release\Bunifu_UI_v1.5.3.dll
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Release\Bunifu_UI_v1.52.dll
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Release\Bunifu_UI_v1.5.3.xml
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Doctors.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Home.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Laboratory.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Login.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patient.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patients.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Prescriptions.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Properties.Resources.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Receptionists.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.GenerateResource.cache
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.CoreCompileInputs.cache
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.CopyComplete
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye Managment System Front.exe
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye Managment System Front.pdb
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.AssemblyReference.cache
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\bin\Release\Guna.UI.dll
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Doctor_View_Home.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patient_View_Home.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Profile_Picture_Patient.resources
+F:\Year Three\Second Year\Clinical informatics\project\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Receotionist_View_Home.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Eye Managment System Front.exe.config
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Eye Managment System Front.exe
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Eye Managment System Front.pdb
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu_UI_v1.5.3.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.AssemblyReference.cache
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Add_Appointment_Receptionist.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Doctors.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Doctor_View_Home.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Home.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Laboratory.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Login.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patient.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patients.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patient_View_Home.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Prescriptions.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Profile_Picture_Patient.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Properties.Resources.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Receotionist_View_Home.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Receptionists.resources
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.GenerateResource.cache
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.CoreCompileInputs.cache
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.CopyComplete
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye Managment System Front.exe
+C:\Users\ozahr\Downloads\Eye Managment System Front\obj\Release\Eye Managment System Front.pdb
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.Licensing.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Guna.UI2.dll
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ozahr\Downloads\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Add_Appointment_Receptionist.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Doctors.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Doctor_View_Home.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Home.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Laboratory.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Login.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patient.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patients.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patient_View_Home.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Prescriptions.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Profile_Picture_Patient.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Properties.Resources.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Receotionist_View_Home.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Receptionists.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Eye Managment System Front.exe.config
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Eye Managment System Front.exe
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Eye Managment System Front.pdb
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.Licensing.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Guna.UI2.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.CopyComplete
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye Managment System Front.exe
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye Managment System Front.pdb
+C:\Users\hp\Desktop\Education\3 year\BMD 302\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.AssemblyReference.cache
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Add_Appointment_Receptionist.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Doctors.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Doctor_View_Home.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Emergy_chat.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Eye_Specification.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Home.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Laboratory.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Login.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Optometrist.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patient.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patients.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patient_View_Home.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Prescriptions.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Profile_Picture_Patient.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Properties.Resources.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Receotionist_View_Home.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Receptionists.resources
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.GenerateResource.cache
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.CoreCompileInputs.cache
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Eye Managment System Front.exe.config
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Eye Managment System Front.exe
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Eye Managment System Front.pdb
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.Licensing.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.1.5.3.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGauge.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLoader.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPages.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRating.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShapes.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTextBox.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.Deprecated.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu_UI_v1.52.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Guna.UI2.dll
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.1.5.3.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuButton.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLoader.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPages.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRating.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShapes.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTextBox.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\Year Three\New folder\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.CopyComplete
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye Managment System Front.exe
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye Managment System Front.pdb
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.AssemblyReference.cache
+F:\Year Three\New folder\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.splash.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Eye Managment System Front.exe.config
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Eye Managment System Front.exe
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Eye Managment System Front.pdb
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.Licensing.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Guna.UI2.dll
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.AssemblyReference.cache
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Add_Appointment_Receptionist.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Doctors.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Doctor_View_Home.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Emergy_chat.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Eye_Specification.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Home.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Laboratory.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Login.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Optometrist.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patient.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patients.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patient_View_Home.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Prescriptions.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Profile_Picture_Patient.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Properties.Resources.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Receotionist_View_Home.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Receptionists.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.splash.resources
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.GenerateResource.cache
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.CoreCompileInputs.cache
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.CopyComplete
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye Managment System Front.exe
+C:\Users\ozahr\OneDrive\Desktop\New folder (6)\Eye Managment System Front\obj\Release\Eye Managment System Front.pdb
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Eye Managment System Front.exe.config
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Eye Managment System Front.exe
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Eye Managment System Front.pdb
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.Licensing.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Guna.UI2.dll
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Add_Appointment_Receptionist.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Doctors.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Doctor_View_Home.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Emergy_chat.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Eye_Specification.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Home.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Laboratory.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Login.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Optometrist.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patient.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patients.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Patient_View_Home.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Prescriptions.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Profile_Picture_Patient.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Properties.Resources.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Receotionist_View_Home.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Receptionists.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.splash.resources
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye Managment System Front.csproj.CopyComplete
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye Managment System Front.exe
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye Managment System Front.pdb
+C:\Users\hp\Desktop\Education\3 year\BMD 302\6-30\Eye Managment System Front\obj\Release\Eye_Managment_System_Front.Store.resources

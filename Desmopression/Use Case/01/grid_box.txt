@@ -1,0 +1,4 @@
+enzyme
+spacing    0.454
+npts       30 44 42
+center    28.958 35.432 197.831
